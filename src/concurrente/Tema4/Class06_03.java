@@ -8,6 +8,7 @@ package concurrente.Tema4;
 import java.util.Queue;
 import java.util.Random;
 import java.util.concurrent.ArrayBlockingQueue;
+import java.util.concurrent.BlockingQueue;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -28,7 +29,7 @@ public class Class06_03 {
     }
 
 
-    private static void producer(int id){
+    private static void producer(int id) throws InterruptedException{
     
            for (int i = 0 ; i<10 ;i++){
                String product = "Productor "+id+"-> producto: "+(i+1);
@@ -41,7 +42,7 @@ public class Class06_03 {
                }
        }
     }
-    private static void consumer (int id){
+    private static void consumer (int id) throws InterruptedException{
      
         while(true){
             String elem = array.take();

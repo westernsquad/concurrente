@@ -1,0 +1,211 @@
+!SESSION 2019-04-01 13:05:15.318 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_31
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.m2e.logback.configuration 2 0 2019-04-01 13:08:14.192
+!MESSAGE Exception while setting up logging:org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+!STACK 0
+java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+	at org.eclipse.m2e.logback.configuration.LogHelper.logJavaProperties(LogHelper.java:26)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.loadConfiguration(LogPlugin.java:189)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.configureLogback(LogPlugin.java:144)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.access$2(LogPlugin.java:107)
+	at org.eclipse.m2e.logback.configuration.LogPlugin$1.run(LogPlugin.java:62)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.433
+!MESSAGE Starting up
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.433
+!MESSAGE Do I have to initialize workspace settings?
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.433
+!MESSAGE Yes I do
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.448
+!MESSAGE The source file:/resources/windows/resources.zip
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.448
+!MESSAGE The dest file:C:\Users\guill\OneDrive\Escritorio\HTML5-Game-master\concurrente\.metadata\.plugins\es.gavab.IDEConfigurator\resources.zip
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.464
+!MESSAGE The source file:/resources/windows/files.txt
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.464
+!MESSAGE The dest file:C:\Users\guill\OneDrive\Escritorio\HTML5-Game-master\concurrente\.metadata\.plugins\es.gavab.IDEConfigurator\files.txt
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.479
+!MESSAGE Replacing:#Fri Jan 30 20:03:50 CET 2009
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.479
+!MESSAGE Replaced:#Fri Jan 30 20:03:50 CET 2009
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.479
+!MESSAGE Replacing:#Fri Jan 30 20:03:50 CET 2009
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.479
+!MESSAGE Replaced:#Fri Jan 30 20:03:50 CET 2009
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.495
+!MESSAGE Replacing:debugging_engine_id=org.eclipse.dltk.ruby.basicdebugger
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.495
+!MESSAGE Replaced:debugging_engine_id=org.eclipse.dltk.ruby.basicdebugger
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.495
+!MESSAGE Replacing:debugging_engine_id=org.eclipse.dltk.ruby.basicdebugger
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.495
+!MESSAGE Replaced:debugging_engine_id=org.eclipse.dltk.ruby.basicdebugger
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.495
+!MESSAGE Replacing:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.495
+!MESSAGE Replaced:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.511
+!MESSAGE Replacing:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.511
+!MESSAGE Replaced:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.511
+!MESSAGE Replacing:#Fri Jan 30 20:03:50 CET 2009
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.511
+!MESSAGE Replaced:#Fri Jan 30 20:03:50 CET 2009
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.526
+!MESSAGE Replacing:#Fri Jan 30 20:03:50 CET 2009
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.526
+!MESSAGE Replaced:#Fri Jan 30 20:03:50 CET 2009
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.526
+!MESSAGE Replacing:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.526
+!MESSAGE Replaced:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.526
+!MESSAGE Replacing:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.542
+!MESSAGE Replaced:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.542
+!MESSAGE Replacing:org.eclipse.dltk.launching.PREF_INTERPRETER_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<interpreterSettings>\r\n<defaultInterpreter environment\="org.eclipse.dltk.core.environment.localEnvironment" id\="66,org.eclipse.dltk.internal.debug.ui.launcher.GenericRubyInstallType13,1233342113270" nature\="org.eclipse.dltk.ruby.core.nature"/>\r\n<interpreterType id\="org.eclipse.dltk.internal.debug.ui.launcher.GenericRubyInstallType">\r\n<interpreter environmentId\="org.eclipse.dltk.core.environment.localEnvironment" id\="1233342113270" name\="ruby.exe" path\="<<<$wsne>>>/ruby-1.9.3/bin/ruby.exe"/>\r\n</interpreterType>\r\n</interpreterSettings>\r\n
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.542
+!MESSAGE Replaced:org.eclipse.dltk.launching.PREF_INTERPRETER_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<interpreterSettings>\r\n<defaultInterpreter environment\="org.eclipse.dltk.core.environment.localEnvironment" id\="66,org.eclipse.dltk.internal.debug.ui.launcher.GenericRubyInstallType13,1233342113270" nature\="org.eclipse.dltk.ruby.core.nature"/>\r\n<interpreterType id\="org.eclipse.dltk.internal.debug.ui.launcher.GenericRubyInstallType">\r\n<interpreter environmentId\="org.eclipse.dltk.core.environment.localEnvironment" id\="1233342113270" name\="ruby.exe" path\="C\:/Users/guill/OneDrive/Escritorio/EclipseComplete/ruby-1.9.3/bin/ruby.exe"/>\r\n</interpreterType>\r\n</interpreterSettings>\r\n
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.542
+!MESSAGE Replacing:org.eclipse.dltk.launching.PREF_INTERPRETER_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<interpreterSettings>\r\n<defaultInterpreter environment\="org.eclipse.dltk.core.environment.localEnvironment" id\="66,org.eclipse.dltk.internal.debug.ui.launcher.GenericRubyInstallType13,1233342113270" nature\="org.eclipse.dltk.ruby.core.nature"/>\r\n<interpreterType id\="org.eclipse.dltk.internal.debug.ui.launcher.GenericRubyInstallType">\r\n<interpreter environmentId\="org.eclipse.dltk.core.environment.localEnvironment" id\="1233342113270" name\="ruby.exe" path\="C\:/Users/guill/OneDrive/Escritorio/EclipseComplete/ruby-1.9.3/bin/ruby.exe"/>\r\n</interpreterType>\r\n</interpreterSettings>\r\n
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.542
+!MESSAGE Replaced:org.eclipse.dltk.launching.PREF_INTERPRETER_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<interpreterSettings>\r\n<defaultInterpreter environment\="org.eclipse.dltk.core.environment.localEnvironment" id\="66,org.eclipse.dltk.internal.debug.ui.launcher.GenericRubyInstallType13,1233342113270" nature\="org.eclipse.dltk.ruby.core.nature"/>\r\n<interpreterType id\="org.eclipse.dltk.internal.debug.ui.launcher.GenericRubyInstallType">\r\n<interpreter environmentId\="org.eclipse.dltk.core.environment.localEnvironment" id\="1233342113270" name\="ruby.exe" path\="C\:/Users/guill/OneDrive/Escritorio/EclipseComplete/ruby-1.9.3/bin/ruby.exe"/>\r\n</interpreterType>\r\n</interpreterSettings>\r\n
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.558
+!MESSAGE Replacing:EXECUTABLE_NAME=<<<$ws>>>\\ghc-7.8.3\\bin\\ghc.exe
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.558
+!MESSAGE Replaced:EXECUTABLE_NAME=<<<$ws>>>\\ghc-7.8.3\\bin\\ghc.exe
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.558
+!MESSAGE Replacing:EXECUTABLE_NAME=<<<$ws>>>\\ghc-7.8.3\\bin\\ghc.exe
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.573
+!MESSAGE Replaced:EXECUTABLE_NAME=C\:\\Users\\guill\\OneDrive\\Escritorio\\EclipseComplete\\ghc-7.8.3\\bin\\ghc.exe
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.573
+!MESSAGE Replacing:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.573
+!MESSAGE Replaced:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.573
+!MESSAGE Replacing:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.589
+!MESSAGE Replaced:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.589
+!MESSAGE Replacing:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.589
+!MESSAGE Replaced:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.589
+!MESSAGE Replacing:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.604
+!MESSAGE Replaced:eclipse.preferences.version=1
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.604
+!MESSAGE Replacing:environment/workspace/PATH/delimiter=;
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.604
+!MESSAGE Replaced:environment/workspace/PATH/delimiter=;
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.604
+!MESSAGE Replacing:environment/workspace/PATH/delimiter=;
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.620
+!MESSAGE Replaced:environment/workspace/PATH/delimiter=;
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.620
+!MESSAGE Replacing:environment/workspace/PATH/operation=append
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.620
+!MESSAGE Replaced:environment/workspace/PATH/operation=append
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.620
+!MESSAGE Replacing:environment/workspace/PATH/operation=append
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.620
+!MESSAGE Replaced:environment/workspace/PATH/operation=append
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.636
+!MESSAGE Replacing:environment/workspace/PATH/value=${eclipse_home}\\..\\MinGW\\bin;${eclipse_home}\\..\\MinGW\\msys\\1.0\\bin
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.636
+!MESSAGE Replaced:environment/workspace/PATH/value=${eclipse_home}\\..\\MinGW\\bin;${eclipse_home}\\..\\MinGW\\msys\\1.0\\bin
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.636
+!MESSAGE Replacing:environment/workspace/PATH/value=${eclipse_home}\\..\\MinGW\\bin;${eclipse_home}\\..\\MinGW\\msys\\1.0\\bin
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.636
+!MESSAGE Replaced:environment/workspace/PATH/value=${eclipse_home}\\..\\MinGW\\bin;${eclipse_home}\\..\\MinGW\\msys\\1.0\\bin
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.636
+!MESSAGE Replacing:environment/workspace/append=true
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.651
+!MESSAGE Replaced:environment/workspace/append=true
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.651
+!MESSAGE Replacing:environment/workspace/append=true
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.651
+!MESSAGE Replaced:environment/workspace/append=true
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.651
+!MESSAGE Replacing:environment/workspace/appendContributed=false
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.651
+!MESSAGE Replaced:environment/workspace/appendContributed=false
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.667
+!MESSAGE Replacing:environment/workspace/appendContributed=false
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.667
+!MESSAGE Replaced:environment/workspace/appendContributed=false
+
+!ENTRY es.gavab.IDEConfigurator 1 0 2019-04-01 13:08:37.667
+!MESSAGE Work done

@@ -5,7 +5,10 @@
  */
 package Tema_5;
 
+import java.awt.List;
 import java.math.BigInteger;
+import java.util.ArrayList;
+import java.util.Random;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;

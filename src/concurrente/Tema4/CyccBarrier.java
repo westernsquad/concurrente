@@ -13,7 +13,7 @@ import java.util.concurrent.BrokenBarrierException;
 
 public class CyccBarrier {
     private static final int NPROC = 4;
-    private static CyclicBarrier barrier;
+    //private static CyclicBarrier barrier;
     
     public static void writer (int id) {
         try{
@@ -24,7 +24,7 @@ public class CyccBarrier {
                 }
                 System.out.println("A");
                 Thread.sleep(1000);
-                barrier.await();
+                //barrier.await();
             }
         }catch(InterruptedException e | BrokenBarrierException e){
             e.printStackTrace();
@@ -33,7 +33,7 @@ public class CyccBarrier {
     
     
     public static void main(String[] args) {
-        barrier = new  CyclicBarrier(NPROC, () -> System.out.println("*"););
+       // barrier = new  CyclicBarrier(NPROC, () -> System.out.println("*"););
         for (int i = 0 ; i <NPROC ;i++){
             int id = i;
             new Thread(() -> writer(id)).start();
